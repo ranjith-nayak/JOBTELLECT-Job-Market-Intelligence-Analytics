@@ -1,4 +1,4 @@
-# JOBTELLECT - Job Market Intelligence Dashboard
+# JOBTELLECT - Job Market Intelligence Analytics
 
 ## Overview
 
