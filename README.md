@@ -160,6 +160,10 @@ Detailed project documentation is available in the **Docs** folder, including:
 
 **Ranjith A R**
 
+📧 [Gmail](24ranjith2003@gmail.com)  
+🌐 [Portfolio](https://ranjith-nayak.github.io)  
+💼 [LinkedIn](https://www.linkedin.com/in/ranjith-nayak)  
+💻 [GitHub](https://github.com/ranjith-nayak)
 
 
 ---
