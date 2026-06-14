@@ -1,0 +1,14 @@
+Companies
+    |
+    |
+    v
+Jobs -------- Job_Skills -------- Skills
+ |
+ |
+ v
+Salaries
+
+ |
+ |
+ v
+Job_Industries -------- Industries
